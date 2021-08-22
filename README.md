@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Kraypex
+- 👀 I’m interested in Fortnite Leaking
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on twitter or youtube
+- 📫 How to reach me? To reach me. My twitter is @Kraypex, My Youtube Channel is also @Kraypex! You can easily reach me on discord. My discord is Kraypex#7022 (I change my tag sometimes, so to reach me just find me on twitter!
