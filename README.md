@@ -1,5 +1,13 @@
-- 👋 Hi, I’m @Kraypex
-- 👀 I’m interested in Fortnite Leaking
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on twitter or youtube
-- 📫 How to reach me? To reach me. My twitter is @Kraypex, My Youtube Channel is also @Kraypex! You can easily reach me on discord. My discord is Kraypex#0001 (I change my tag sometimes, so to reach me just find me on twitter!
+# Kraypex
+
+👋 Hi, I’m [Kraypex](https://www.twitter.com/Kraypex) and I'm a Python developer and Fortnite Leaker.
+
+Make sure to follow me on [Twitter](https://www.twitter.com/djlorenzouasset) for 4K HD Gameplay leaks!
+
+Join my [Discord Server](https://discord.io/KrayFN)
+
+# My projects:
+
+![ME](https://github-readme-stats.vercel.app/api?username=Kraypex&show_icons=true&theme=tokyonight)
+
+![ME](https://github-readme-stats.vercel.app/api/top-langs?username=Kraypex&show_icons=true&theme=tokyonight&layout=compact)
