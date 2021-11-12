@@ -1,6 +1,8 @@
 # Kraypex
 
-👋 Hi, I’m [Kraypex](https://www.twitter.com/Kraypex) and I'm a Python developer and Fortnite Leaker.
+👋 Hi, I’m [Kraypex](https://www.twitter.com/Kraypex) and I'm a Fortnite Leaker
+
+🌱 I’m currently learning Python
 
 Make sure to follow me on [Twitter](https://www.twitter.com/djlorenzouasset) for 4K HD Gameplay leaks!
 
