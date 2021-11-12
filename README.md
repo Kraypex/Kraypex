@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning Python
 
-Make sure to follow me on [Twitter](https://www.twitter.com/djlorenzouasset) for 4K HD Gameplay leaks!
+Make sure to follow me on [Twitter](https://www.twitter.com/Kraypex) for 4K HD Gameplay leaks!
 
 Join my [Discord Server](https://discord.io/KrayFN)
 
