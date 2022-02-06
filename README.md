@@ -2,7 +2,7 @@
 
 👋 Hi, I’m [Kraypex](https://www.twitter.com/Kraypex) and I'm a Fortnite Leaker
 
-🌱 I’m currently learning Python and C#
+🌱 I’m currently learning Python
 
 Make sure to follow me on [Twitter](https://www.twitter.com/Kraypex) for 4K HD Gameplay leaks!
 
